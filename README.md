@@ -1,3 +1,3 @@
-# OpenGL-Examples
+# OpenGL-DVDscreensaver
 
-ten ctverec se hejbá yooooooo
+dvd screensaver 😲
